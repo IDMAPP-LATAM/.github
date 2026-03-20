@@ -13,9 +13,9 @@ Below are some of the key modelling priorities co-developed by IDMAPP-LATAM memb
 <img src="IDMAPP-LATAM_modelling_priorities.png" alt="IDMAPP-LATAM key modelling priorities" width="700">
 
 ### Members
-IDMAPP-LATAM brings together experts in the public and private sector, including academic institutions, ministries of health, and public health institutes, working across vector-borne diseases, One Health/zoonoses, and respiratory pathogens. The consortium integrates expertise in pathogen genomic epidemiology, mathematical modelling, One Health, veterinary and clinical sciences, health economics, ethics, artificial intelligence, risk communication, epidemiological intelligence, and public health policy. 
+IDMAPP-LATAM brings together experts in the public and private sector, including academic institutions, ministries of health, and public health institutes, working across vector-borne diseases, One Health/zoonoses, and respiratory pathogens. The network integrates expertise in pathogen genomic epidemiology, mathematical modelling, One Health, veterinary and clinical sciences, health economics, ethics, artificial intelligence, risk communication, epidemiological intelligence, and public health policy. 
 
 ### Network activities
-The IDMAPP-LATAM working group ran an advanced pandemic modelling [workshop](https://mrc-ide.github.io/IDMAPP-LATAM) that brought together 40 experts from 25 public health institutions in 12 Latin American countries. Participants spanned national surveillance programmes, ministries of health, universities and research institutes.
+IDMAPP-LATAM was born out of an advanced pandemic modelling [workshop](https://mrc-ide.github.io/IDMAPP-LATAM) that brought together 40 experts from 25 public health institutions in 12 Latin American countries. Participants spanned national surveillance programmes, ministries of health, universities and research institutes.
 
 <img src="IDMAPP-LATAM_social_image.png" alt="IDMAPP-LATAM workshop details" width="650">
