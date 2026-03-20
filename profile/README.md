@@ -1,5 +1,5 @@
 ## Infectious Disease Modelling and Analytics for Pandemic Preparedness in Latin America (IDMAPP-LATAM)
-We focus on the priority epidemic contexts in Latin America, including emerging and re-emerging viruses, zoonotic threats and vector-borne pathogens. 
+We focus on priority epidemic contexts in Latin America, including emerging and re-emerging viruses, zoonotic threats and vector-borne pathogens. 
 
 <img src="IDMAPP-LATAM_themes.png" alt="IDMAPP-LATAM key themes" width="450">
 
